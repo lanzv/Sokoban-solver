@@ -1,0 +1,89 @@
+#mapa0
+xxxxxxx
+xP   xx
+x KK  x
+x xO Ox
+x     x
+xxxxxxx
+#mapa1
+xxxxxx
+x Oxxx
+x  xxx
+xkP  x
+x  K x
+x  xxx
+xxxxxx
+#mapa2
+xxxxxx
+x    x 
+x xP x
+x Kk x
+x Ok x
+x    x
+xxxxxx
+#mapa3
+xxxxxxx
+x   xxx
+x x  xx
+xPKkOxx
+xx  O x
+xx Kx x
+xxx   x
+xxxxxxx
+#mapa4
+xxxxxxxxxx
+xx  xxxxxx
+xx    K  x
+x Ox K   x
+x OxKxxxxx
+x OP xxxxx
+xxxxxxxxxx
+#mapa5
+xxxxxxxxxxxxxx
+x   xxxxxxxxxx
+x x x Oxxxxxxx
+x    K xxxxxxx
+xxx xKO  xxxxx
+x   xP   xxxxx
+x x xxxxxxxxxx
+x   xxxxxxxxxx
+xxxxxxxxxxxxxx
+#mapa6
+xxxxxxxxxxxx
+xxx  xxxxxxx
+xxx Kxxxxxxx
+xxxO O  xxxx
+x K x K xxxx
+x  O Oxxxxxx
+xxxxK xxxxxx
+xxxx Pxxxxxx
+xxxxxxxxxxxx
+#mapa7
+xxxxxxx
+x  xxxx
+x O O x
+x KKxPx
+xx    x
+xxxxxxx
+#mapa8
+xxxxxxxxxx
+xxx  x O x
+xxx   OkOx
+xxx  x k x
+xxxxKxxOxx
+x      K x
+x K xx K x
+x   Px   x
+xxxxxxxxxx
+#mapa9
+xxxxxxxxx
+x   x   x
+x x x   x
+x OKOOKxx
+x  KOOK x
+xxxKxPx x
+xx KO   x
+xx   xxxx
+xxxxxxxxx
+#
+#
